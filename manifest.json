@@ -1,0 +1,9 @@
+{
+  "name": "CruiserSafety",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/PixelIndieDev/CruiserSafety",
+  "description": "A simple mod that removes the damage players can receive from the cruiser crashing",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
