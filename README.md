@@ -17,7 +17,6 @@ Now, your teammates can truly become the danger.
 ## Usage
 No configuration needed.
 
-> [!IMPORTANT]
 > All players in the lobby are required to have the `Cruiser Safety` mod installed. Clients without the mod will receive an generic "an error occurred" message and be sent back to the main menu.
 
 ## Compatibility
