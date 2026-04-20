@@ -1,6 +1,6 @@
 {
   "name": "CruiserSafety",
-  "version_number": "1.0.0",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/PixelIndieDev/CruiserSafety",
   "description": "A simple mod that removes the damage players can receive from the cruiser crashing",
   "dependencies": [

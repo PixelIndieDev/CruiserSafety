@@ -8,6 +8,7 @@ namespace CruiserSafety.Patches
     {
         [HarmonyPatch("DamagePlayerInVehicle")]
         [HarmonyPrefix]
+        [HarmonyPriority(Priority.Last)]
         static bool PatchVehicle(VehicleController __instance, Vector3 vel, float magnitude)
         {
             if (__instance.localPlayerInPassengerSeat || __instance.localPlayerInControl)

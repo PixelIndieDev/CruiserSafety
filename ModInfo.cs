@@ -4,6 +4,6 @@
     {
         internal const string modGUID = "PixelIndieDev_CruiserSafety";
         internal const string modName = "Cruiser Safety";
-        internal const string modVersion = "1.0.0.0";
+        internal const string modVersion = "1.1.0.0";
     }
 }
